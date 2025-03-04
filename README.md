@@ -70,7 +70,7 @@ As an alternative, you can also run a virtual machine. We provide [preconfigured
 
 
 ## 4. Emulation (QEMU)
-If you're on a machine that isn't x86 (such as Apple Silicon) and you must run Windows XP or x86 Linux, you can consider QEMU for emulation. This is more complex and typically less performant.
+If you're on a machine that isn't x86 (such as Apple Silicon) and you must run Windows XP or x86 Linux, you can consider QEMU for emulation. This is more complex and typically less performant. See [the instructions](XP_UTM.md) to run Windows XP on MacOS with Apple Silicon using UTM.  
 
 **Pros**: Can emulate different CPU architectures, flexible. 
 
