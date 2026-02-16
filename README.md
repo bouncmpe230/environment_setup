@@ -1,4 +1,4 @@
-# CMPE230 Spring 2025: Environment Setup
+# CMPE230: Environment Setup
 
 Welcome to the **CMPE230 Systems Programming** course! Throughout this semester, we'll be doing a variety of hands-on exercises, including **Unix command practice**, **C/C++ programming** and **Assembly programming**. To ensure everyone can participate effectively, you will need access to a Unix-like environment (e.g., **Ubuntu**, **Debian**, or **macOS**) for most of our sessions.
 
