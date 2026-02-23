@@ -3,22 +3,18 @@
   "name": "cmpe230_spring26",
   "context": "..",
   "dockerFile": "../containers/spring26/Dockerfile",
-
   "remoteUser": "bouncmpe230",
   "workspaceFolder": "/home/bouncmpe230/workspace",
-
   "mounts": [
     "source=${localWorkspaceFolder},target=/home/bouncmpe230/workspace,type=bind,consistency=cached",
     "source=cmpe230-bash-history,target=/home/bouncmpe230/.bash_history,type=volume"
   ],
-
   "settings": {
     "terminal.integrated.defaultProfile.linux": "bash",
     "editor.formatOnSave": true,
     "files.eol": "\n",
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
   },
-
   "customizations": {
     "vscode": {
       "extensions": [
@@ -32,9 +28,6 @@
       ]
     }
   },
-
-  "postCreateCommand": "mkdir -p ~/workspace && git config --global --add safe.directory '*' && git config --global core.editor vim",
-
   "features": {
     "ghcr.io/devcontainers/features/git:1": {}
   }
