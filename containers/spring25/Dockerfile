@@ -12,6 +12,8 @@ RUN apt-get update && apt-get install -y \
     make \
     cmake \
     nasm \
+    nano \
+    vim \
     gdb \
     clang \
     llvm \
