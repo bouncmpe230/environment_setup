@@ -1,6 +1,6 @@
 # Docker Container Instructions
 
-This guide explains how to use the Spring 25 development container either by building it directly with Docker or using VS Code's Dev Containers feature.
+This guide explains how to use the Spring 26 development container either by building it directly with Docker or using VS Code's Dev Containers feature.
 
 ## Method 1: Building with Docker directly
 
