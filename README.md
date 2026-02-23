@@ -37,7 +37,7 @@ This downloads our Ubuntu 24.04-based container image, preconfigured for CMPE230
 Once the image is downloaded, start a container with:
 
 ```bash
-docker run -it --rm gokceuludogan/cmpe230_spring25:latest
+docker run -it --rm gokceuludogan/cmpe230-spring26:latest
 ```
 - -it keeps an interactive terminal, so you can type commands inside Ubuntu.
 - --rm ensures the container is removed when you exit.
