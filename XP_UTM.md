@@ -1,5 +1,7 @@
 # Emulating Windows XP on macOS (ARM Chips) with UTM
 
+Install UTM: https://docs.getutm.app/installation/installation/
+
 Follow the official guide: [Windows XP on UTM](https://mac.getutm.app/gallery/windows-xp)
 
 ---
@@ -124,8 +126,8 @@ If **USB sharing does not work**, create an **ISO file** and mount it in Windows
 ### **Final Notes**
 
 - **SPICE tools** enable **copy-paste, better graphics, and mouse integration**.
-a- If **SPICE tools are not working**, try reinstalling them using the steps above.
-- The **pre-configured UTM template on Zenodo** has these steps completed, so you can start using Windows XP immediately.
+- If **SPICE tools are not working**, try reinstalling them using the steps above.
+- The **[pre-configured UTM template](https://zenodo.org/records/14969111) on Zenodo** has these steps completed, so you can start using Windows XP immediately. 
 
 ---
 
